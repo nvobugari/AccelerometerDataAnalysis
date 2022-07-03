@@ -9,7 +9,7 @@
 
 ##Reads the file features.txt in table format and creates a data frame named features
 features <- read.table("./features.txt",sep="")
-
+##this is a trial
 
 ##Reads the file subject_train.txt in table format to create a data frame subjectTrain
 ##also reads the file X_train.txt in table fomat and creates a data frame named XTrain
